@@ -1,4 +1,90 @@
-### Hi there 👋
+# Hi, I'm Sarah Wallace 👋
+
+## About Me
+I am a passionate AI and Data Science enthusiast with a B.S. in Computer Science (AI focus), currently dedicated to applying machine learning and software development skills. I have recently completed several private academic projects in artificial intelligence, machine learning, and software engineering.
+
+I am fascinated by using data science and machine learning for research-based decision-making and outcomes, particularly in healthcare, energy, engineering, and technology industries. I have a strong interest in research involving data science and machine learning pipelines within the finance sector. I am passionate about leveraging artificial intelligence and advancements in computer science to drive innovation across these fields.
+
+---
+
+## Skills & Technologies
+
+- Programming Languages: Python, Java, C++, SQL  
+- Data Science & AI: Machine Learning, Neural Networks, NLP  
+- Tools & Frameworks: TensorFlow, PyTorch, Scikit-learn, Git, Docker  
+- Cloud & DevOps: AWS, CI/CD, GitHub Actions
+
+---
+
+## Private Academic Projects
+
+*(Project code is private due to school policy)*
+
+| Project Name                                         | Description                                           | Technologies                   |
+| ---------------------------------------------------|-----------------------------------------------------|-------------------------------|
+| d797 AI & ML Foundations                            | Implemented ML algorithms with real-world datasets  | Python, TensorFlow, Pandas     |
+| d387 Advanced Java Frameworks                       | Developed modular Java applications with REST APIs  | Java, Spring Boot, MySQL       |
+| d682 AI Optimization for Computer Scientists       | Created AI compiler optimizations for edge devices   | C++, LLVM, MLIR               |
+| d795 Applied Algorithms and Reasoning               | Designed and analyzed algorithms for complex problems | Python, Algorithm Design       |
+
+---
+## Education & Certifications
+
+**Western Governors University (WGU)**  
+Relevant Coursework & Certifications:  
+- Introduction to Computer Science – D684  
+- Software Engineering – D284  
+- Introduction to AI for Computer Scientists – D429  
+- Data Structures and Algorithms I & II – C949, C950  
+- Software Design and Quality Assurance – D480  
+- Formal Languages Overview – D793  
+- Applied Algorithms and Reasoning – D795  
+- Artificial Intelligence Optimization for Computer Scientists – D682  
+- Artificial Intelligence and Machine Learning Foundations – D797  
+- Scripting and Programming Foundations – C173  
+- IT Leadership Foundations – D194  
+- Data and Information Governance – D494  
+- Hardware and Operating Systems Essentials – D386  
+- Computer Architecture – C952  
+- Discrete Mathematics I & II – C959, C960  
+- Applied Probability and Statistics – C955  
+- Natural Science Applications – INT1 (Transferred from NSCC)  
+- Operating Systems for Programmers – C191
+- Linux Foundations – D281
+- Advanced Java – D387
+- Back-End Programming – D288
+- Java Frameworks – D287
+- Java Fundamentals – D286
+- Web Development Foundations – D276
+- Scripting and Programming - Applications – C867
+- Hardware and Operating Systems Essentials – D386
+- Data Management - Foundations – C175
+- Scripting and Programming - Foundations – C173
+- ....more/transcripts available upon request.
+
+**Transferred Courses from North Seattle College (NSCC)**  
+- Intro to Computer Programming (CSC 110)  
+- Computer Programming I & II (CSC 142, CDC 143)
+- Engineering Calculus I, II, III  
+- Statistics I & II  
+- Accounting I & II 
+- Integrated Physical Sciences – C165 (Lab)  
+
+**Certifications**  
+- ITIL v4 Foundation Certified  
+- Linux Professional Institute Certification (LPIC)
+- WGU Java Developer Certficate
+- WGU AI Skills Fundamentals Certificate
+
+📫 
+## How to reach me: Public Work & Contact
+
+- [GitHub Profile](https://github.com/Swall1545)  
+- [LinkedIn](https://linkedin.com/in/swall15)  
+
+---
+
+*Thank you for visiting my profile! Feel free to reach out.*  
 <!--rough summary: in progress
 - 🔭 I’m currently working on ... a Computer Science Degree from Western Governors University.
 <!--...--
