@@ -22,10 +22,15 @@ I am fascinated by using data science and machine learning for research-based de
 
 | Project Name                                         | Description                                           | Technologies                   |
 | ---------------------------------------------------|-----------------------------------------------------|-------------------------------|
-| d797 AI & ML Foundations                            | Implemented ML algorithms with real-world datasets  | Python, TensorFlow, Pandas     |
-| d387 Advanced Java Frameworks                       | Developed modular Java applications with REST APIs  | Java, Spring Boot, MySQL       |
-| d682 AI Optimization for Computer Scientists       | Created AI compiler optimizations for edge devices   | C++, LLVM, MLIR               |
-| d795 Applied Algorithms and Reasoning               | Designed and analyzed algorithms for complex problems | Python, Algorithm Design       |
+| AI & ML Foundations for Computer Scientists (D797) | Alzheimer’s progression prediction model with data cleaning, feature engineering, hyperparameter tuning, and rich visualizations created in Jupyter Notebooks. | Python, Jupyter Notebook, scikit-learn, Matplotlib, Seaborn, Random Forest, K-Means |
+| d682 AI Optimization for Computer Scientists | Machine learning models predicting air quality and health risk scores using pollution and weather data. Applied feature engineering, hyperparameter tuning, ensemble methods, and model interpretability analysis. | Python, XGBoost, Random Forest, SHAP, sklearn | Developed optimized XGBoost regression models with feature engineering and hyperparameter tuning. Generated technical report with performance evaluation and recommendations. | Python, XGBoost, Random Forest, SHAP, sklearn |
+| Ambulance Dispatch Protocol (d795) | Two Python prototypes for ambulance dispatch using Dijkstra’s and Floyd-Warshall algorithms to find fastest routes. Included priority call handling, embedded timing counters, performance testing, and algorithm comparison. | Python, Algorithm Design, GitLab |
+| d387 Advanced Java Frameworks                       | Developed modular Java applications using OOP, multithreading, and REST APIs  | Java, Spring Boot, MySQL       |             |
+| d288 Back-End Programming | Developed scalable RESTful APIs with authentication, data modeling, and error handling for backend services. | Java, Spring Boot, SQL, JUnit |
+| d287 Java Frameworks | Built Java applications using Spring and Hibernate, focusing on modular design, REST APIs, and ORM data persistence. | Java, Spring, Hibernate, REST, JUnit |
+| d793 Formal Languages Overview | Translated legacy Fortran scientific code into Python with full testing, validation, and documentation following professional standards. | Fortran, Python, GitLab   |
+| Class Roster Management (C867) | Developed a C++ application managing student data with classes, dynamic memory, parsing, validation, and filtering by degree program. | C++, Object-Oriented Programming, Dynamic Memory |
+
 
 ---
 ## Education & Certifications
