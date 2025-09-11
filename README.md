@@ -1,6 +1,6 @@
 # Hi, I'm Sarah Wallace 👋
 > **Code access for recruiters:** Project repositories are private to honor academic policy.  
-> Request read-only access via email (include your GitHub username and project names).
+ Request read-only access here → **https://swall1545.github.io/access** (include your GitHub username and project names).
 
 **BSCS Recent Graduate & CS (AI/ML) Graduate Student** Student projects include building forecasting, interpretable ML, and routing/optimization systems in Python—plus solid software engineering in Java/C++. I focus on turning data into clear decisions with tested pipelines, instrumentation, and stakeholder-ready reports. Based in Austin, TX.
 - 📁 **Portfolio (case studies, charts, reports): https://swall1545.github.io**
@@ -36,7 +36,8 @@ pytest (unit/integration), JUnit (Java), Git/GitLab, Linux, Docker
 
 ---
 
-## Projects (code private per academic policy: Request read-only access via email)
+## Projects 
+> **Code access:** Private per academic policy — **request read-only access via form**: https://swall1545.github.io/access
 
 ### AI / ML
 - **Air Quality Forecasting (D682)** — XGBoost pipeline on weather/pollution time series; **PM₂.₅ RMSE 4.73 (~3.5% better than baseline)**; SHAP surfaced **dew point/humidity** as key drivers; report + notebooks.  
@@ -63,15 +64,22 @@ pytest (unit/integration), JUnit (Java), Git/GitLab, Linux, Docker
 - Honors: Certificates of Excellence (Project Development; Technical Communication; Lab Science) · Sigma Alpha Pi  
 - Certs: Linux Foundation Certified · ITIL v4 Foundation  
 - Micro-credentials: Java Developer · AI Optimization Developer
+- 
 📫 
 ## How to reach me: Public Work & Contact
 
 - [GitHub Profile](https://github.com/Swall1545)  
-- [LinkedIn](https://linkedin.com/in/sarahwallaceai)  
-### Access to Code
-To comply with academic policy, project code is in **private GitHub repositories**.  
-Recruiters/hiring teams can **email me** with their **GitHub username** and the **project names** to receive read-only access to academic projects.
+- [LinkedIn](https://linkedin.com/in/sarahwallaceai)
+  
+## Access to Code
+To comply with academic policy, project code is in **private GitHub repositories**.
+
+ **Code access:** 
+Recruiters/hiring teams can **request read-only access via form**: 
+https://swall1545.github.io/access ...
 ---
+...with their **GitHub username** and the **project name(s)** to receive read-only access to academic project code. 
+Please DM me on [LinkedIn](https://linkedin.com/in/sarahwallaceai) with and issues or for confirmation your request was recieved.
 
 *Thank you for visiting my profile! Feel free to reach out.*  
 
