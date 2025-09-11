@@ -1,110 +1,77 @@
 # Hi, I'm Sarah Wallace 👋
+> **Code access for recruiters:** Project repositories are private to honor academic policy.  
+> Request read-only access via email (include your GitHub username and project names).
 
-## About Me
-I am a passionate AI and Data Science enthusiast with a B.S. in Computer Science (AI focus), currently dedicated to applying machine learning and software development skills. I have recently completed several private academic projects in artificial intelligence, machine learning, and software engineering.
-
-I am fascinated by using data science and machine learning for research-based decision-making and outcomes, particularly in healthcare, energy, engineering, and technology industries. I have a strong interest in research involving data science and machine learning pipelines within the finance sector. I am passionate about leveraging artificial intelligence and advancements in computer science to drive innovation across these fields.
+**BSCS Recent Graduate & CS (AI/ML) Graduate Student** Student projects include building forecasting, interpretable ML, and routing/optimization systems in Python—plus solid software engineering in Java/C++. I focus on turning data into clear decisions with tested pipelines, instrumentation, and stakeholder-ready reports. Based in Austin, TX.
+- 📁 **Portfolio (case studies, charts, reports): https://swall1545.github.io**
+- 🔗 LinkedIn: https://linkedin.com/in/sarahwallaceai
 
 ---
 
 ## Skills & Technologies
+**Languages**
+Python, SQL, Java, C++
 
-- Programming Languages: Python, Java, C++, SQL  
-- Data Science & AI: Machine Learning, Neural Networks, NLP  
-- Tools & Frameworks: TensorFlow, PyTorch, Scikit-learn, Git, Docker  
-- Cloud & DevOps: AWS, CI/CD, GitHub Actions
+**Data Wrangling** Pandas, NumPy · SQL joins, window functions, CTEs
+
+**Modeling & ML**
+scikit-learn (Pipelines, ColumnTransformer), XGBoost, Random Forests · feature engineering · cross-validation · RandomizedSearchCV · early stopping · SHAP interpretability · leakage audits
+
+**Visualization & Reporting**
+Jupyter Notebooks, Matplotlib, Seaborn · stakeholder reports/readouts
+
+**Algorithms & Systems**
+Dijkstra’s, Floyd–Warshall · priority queues (min-heap) · custom hash table · event logging · performance profiling (`time.perf_counter`)
+
+**Back-end (Java/Spring)**  
+Spring Boot **REST APIs & MVC (Thymeleaf)** · JPA/Hibernate · H2 · Bean Validation (custom validators) · Maven · Docker · JUnit 5
+
+**Front-end (Angular)**  
+TypeScript · Angular 14 · Angular Material · Reactive Forms · Router · Reactive Forms · HttpClient · RxJS · Jasmine/Karma · HTML, CSS
+
+**Testing & Dev**  
+pytest (unit/integration), JUnit (Java), Git/GitLab, Linux, Docker
+
+**Studying** IBM SkillsBuild AI Experiential Learning Lab Participant, AWS Certified Machine Learning – Specialty *(exam expected 2026)*
 
 ---
 
-## Private Academic Projects
+## Projects (code private per academic policy: Request read-only access via email)
 
-*(Project code is private due to school policy)*
+### AI / ML
+- **Air Quality Forecasting (D682)** — XGBoost pipeline on weather/pollution time series; **PM₂.₅ RMSE 4.73 (~3.5% better than baseline)**; SHAP surfaced **dew point/humidity** as key drivers; report + notebooks.  
+- **Alzheimer’s Prevalence (D797)** — scikit-learn Pipeline with cross-validation; **leakage audit documented** for a cluster-derived feature; SHAP interpretability; stakeholder readout.  
+- **MLIR Operator Fusion Proposal (WGU Project Dev)** — Proposed an MLIR operator-fusion pass for edge inference; authored requirements, architecture, and implementation plan; delivered technical + business proposal; **Certificate of Excellence**.
 
-| Project Name                                         | Description                                           | Technologies                   |
-| ---------------------------------------------------|-----------------------------------------------------|-------------------------------|
-| AI & ML Foundations for Computer Scientists (D797) | Alzheimer’s progression prediction model with data cleaning, feature engineering, hyperparameter tuning, and rich visualizations created in Jupyter Notebooks. | Python, Jupyter Notebook, scikit-learn, Matplotlib, Seaborn, Random Forest, K-Means |
-| d682 AI Optimization for Computer Scientists | Machine learning models predicting air quality and health risk scores using pollution and weather data. Applied feature engineering, hyperparameter tuning, ensemble methods, and model interpretability analysis. | Python, XGBoost, Random Forest, SHAP, sklearn | Developed optimized XGBoost regression models with feature engineering and hyperparameter tuning. Generated technical report with performance evaluation and recommendations. | Python, XGBoost, Random Forest, SHAP, sklearn |
-| Ambulance Dispatch Protocol (d795) | Two Python prototypes for ambulance dispatch using Dijkstra’s and Floyd-Warshall algorithms to find fastest routes. Included priority call handling, embedded timing counters, performance testing, and algorithm comparison. | Python, Algorithm Design, GitLab |
-| d387 Advanced Java Frameworks                       | Developed modular Java applications using OOP, multithreading, and REST APIs  | Java, Spring Boot, MySQL       |             |
-| d288 Back-End Programming | Developed scalable RESTful APIs with authentication, data modeling, and error handling for backend services. | Java, Spring Boot, SQL, JUnit |
-| d287 Java Frameworks | Built Java applications using Spring and Hibernate, focusing on modular design, REST APIs, and ORM data persistence. | Java, Spring, Hibernate, REST, JUnit |
-| d793 Formal Languages Overview | Translated legacy Fortran scientific code into Python with full testing, validation, and documentation following professional standards. | Fortran, Python, GitLab   |
-| Class Roster Management (C867) | Developed a C++ application managing student data with classes, dynamic memory, parsing, validation, and filtering by degree program. | C++, Object-Oriented Programming, Dynamic Memory |
+### Software / Algorithms
+- **Emergency Dispatch Simulator (D795)** — Implemented **Dijkstra** & **Floyd–Warshall** with priority triage, timing counters, and full event logging; after all-pairs precompute, **per-call routing latency improved ~7.7×**.  
+- **WGUPS Routing** — Custom hash table; nearest-neighbor routing under constraints; **top-5 shortest total mileage in cohort**; CLI for time-based status & mileage; unit-tested, PEP 8.  
+- **Fortran → Python Port (D793)** — Translated a legacy Fortran module to Python; added pytest unit/integration tests; validated numerical parity; documented design.  
+- **Java Frameworks (D287)** — Spring Boot **MVC** app with Thymeleaf views for parts/products; **JPA** domain with **Many-to-Many** Product↔Part; **custom validators** (price/“enough parts”); H2 seed data; **JUnit 5** tests.
+- **Angular Front End (D288)** — Angular 14 SPA with Material UI; vacations/excursions/cart flows; **Router** navigation; **Reactive Forms** with validation; **HttpClient** service + shared state via RxJS; Jasmine/Karma tests.
+- **Advanced Java (D387)** — Full-stack **Spring Boot REST** + **Angular** hotel reservation app: endpoints for availability/room lookup/reservation, **JPA/H2** persistence, DTO conversion via **ConversionService**, i18n with a multi-threaded service, Angular 14 UI under `src/main/UI`, **Dockerfile** for containerized deploy, **JUnit 5** context test. 
+- **C++ Class Roster (C867)** — OOP roster app parsing CSV into student objects; add/remove by ID; average days-in-course; email validation; filter by degree; destructor frees memory.
 
+> **Access to code:** Repos are private to honor academic policy. For read-only access, email your GitHub username and the project name.
 
 ---
 ## Education & Certifications
 
-**Western Governors University (WGU)**  
-Relevant Coursework & Certifications:  
-- Introduction to Computer Science – D684  
-- Software Engineering – D284  
-- Introduction to AI for Computer Scientists – D429  
-- Data Structures and Algorithms I & II – C949, C950  
-- Software Design and Quality Assurance – D480  
-- Formal Languages Overview – D793  
-- Applied Algorithms and Reasoning – D795  
-- Artificial Intelligence Optimization for Computer Scientists – D682  
-- Artificial Intelligence and Machine Learning Foundations – D797  
-- Scripting and Programming Foundations – C173  
-- IT Leadership Foundations – D194  
-- Data and Information Governance – D494  
-- Hardware and Operating Systems Essentials – D386  
-- Computer Architecture – C952  
-- Discrete Mathematics I & II – C959, C960  
-- Applied Probability and Statistics – C955  
-- Natural Science Applications – INT1 (Transferred from NSCC)  
-- Operating Systems for Programmers – C191
-- Linux Foundations – D281
-- Advanced Java – D387
-- Back-End Programming – D288
-- Java Frameworks – D287
-- Java Fundamentals – D286
-- Web Development Foundations – D276
-- Scripting and Programming - Applications – C867
-- Hardware and Operating Systems Essentials – D386
-- Data Management - Foundations – C175
-- Scripting and Programming - Foundations – C173
-- ....more/transcripts available upon request.
-
-**Transferred Courses from North Seattle College (NSCC)**  
-- Intro to Computer Programming (CSC 110)  
-- Computer Programming I & II (CSC 142, CDC 143)
-- Engineering Calculus I, II, III  
-- Statistics I & II  
-- Accounting I & II 
-- Integrated Physical Sciences – C165 (Lab)  
-
-**Certifications**  
-- ITIL v4 Foundation Certified  
-- Linux Professional Institute Certification (LPIC)
-- WGU Java Developer Certficate
-- WGU AI Skills Fundamentals Certificate
-
+**Western Governors University**  
+- **M.S., Computer Science (AI/ML)** — expected 2027  
+- **B.S., Computer Science** — 2025  
+- Honors: Certificates of Excellence (Project Development; Technical Communication; Lab Science) · Sigma Alpha Pi  
+- Certs: Linux Foundation Certified · ITIL v4 Foundation  
+- Micro-credentials: Java Developer · AI Optimization Developer
 📫 
 ## How to reach me: Public Work & Contact
 
 - [GitHub Profile](https://github.com/Swall1545)  
-- [LinkedIn](https://linkedin.com/in/swall15)  
-
+- [LinkedIn](https://linkedin.com/in/sarahwallaceai)  
+### Access to Code
+To comply with academic policy, project code is in **private GitHub repositories**.  
+Recruiters/hiring teams can **email me** with their **GitHub username** and the **project names** to receive read-only access to academic projects.
 ---
 
 *Thank you for visiting my profile! Feel free to reach out.*  
-<!--rough summary: in progress
-- 🔭 I’m currently working on ... a Computer Science Degree from Western Governors University.
-<!--...--
-- 🌱 I’m currently learning ... always and in every aspect of life.
-<!--...--
-- 👯 I’m open to  ... internships/project-based work experiences.
-<!--...--
-- 🤔 I’m looking for help with ... insightful and constructive feedback and recommendations including general best practices and code optimization and fine tuning from industry veterans.
-<!--...--
-- 💬 Ask me about ... my Excellence Award from WGU Lab Science
-<!-- 📫 How to reach me: coming soon...--
-- Experience with: Python, SQL, Java, HTML, CSS
-<!-- linked-in coming soon ...--
-- ⚡ Fun facts about me:   * I have previous sales management experience in the insurance industry. 
-                  * I am an autism and dyslexia/dysgraphia advocate for three family members.
--  I am fascinated with …data analytics for research-based decision-making and outcomes, artificial intelligence, utilizing computer science advancements to further other sectors and industries pertaining to medical care, education and engineering. 
--  I am looking forward to ... build real-world projects with positive impact.
---->
+
