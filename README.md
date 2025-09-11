@@ -2,8 +2,9 @@
 > **Code access for recruiters:** Project repositories are private to honor academic policy.  
  Request read-only access here → **https://swall1545.github.io/access** (include your GitHub username and project names).
 
-**BSCS Recent Graduate & CS (AI/ML) Graduate Student** Student projects include building forecasting, interpretable ML, and routing/optimization systems in Python—plus solid software engineering in Java/C++. I focus on turning data into clear decisions with tested pipelines, instrumentation, and stakeholder-ready reports. Based in Austin, TX.
+**BSCS Recent Graduate & CS (AI/ML) Graduate Student:** Student projects include building forecasting, interpretable ML, and routing/optimization systems in Python—plus solid software engineering in Java/C++. 
 - 📁 **Portfolio (case studies, charts, reports): https://swall1545.github.io**
+- **Academic Code Access Request Form: https://swall1545.github.io/access** 
 - 🔗 LinkedIn: https://linkedin.com/in/sarahwallaceai
 
 ---
