@@ -21,17 +21,13 @@ scikit-learn (Pipelines, ColumnTransformer), XGBoost, Random Forests · feature 
 **Visualization & Reporting**
 Jupyter Notebooks, Matplotlib, Seaborn · stakeholder reports/readouts
 
-**Algorithms & Systems**
-Dijkstra’s, Floyd–Warshall · priority queues (min-heap) · custom hash table · event logging · performance profiling (`time.perf_counter`)
+**Algorithms & Systems** Dijkstra’s, Floyd–Warshall · priority queues (min-heap) · custom hash table · event logging · performance profiling (`time.perf_counter`)
 
-**Back-end (Java/Spring)**  
-Spring Boot **REST APIs & MVC (Thymeleaf)** · JPA/Hibernate · H2 · Bean Validation (custom validators) · Maven · Docker · JUnit 5
+**Back-end (Java/Spring)** Spring Boot REST APIs & MVC (Thymeleaf) · JPA/Hibernate · H2 · Bean Validation (custom validators) · Maven · Docker · JUnit 5
 
-**Front-end (Angular)**  
-TypeScript · Angular 14 · Angular Material · Reactive Forms · Router · Reactive Forms · HttpClient · RxJS · Jasmine/Karma · HTML, CSS
+**Front-end (Angular)** TypeScript · Angular 14 · Angular Material · Reactive Forms · Router · Reactive Forms · HttpClient · RxJS · Jasmine/Karma · HTML, CSS
 
-**Testing & Dev**  
-pytest (unit/integration), JUnit (Java), Git/GitLab, Linux, Docker
+**Testing & Dev** pytest (unit/integration), JUnit (Java), Git/GitLab, Linux, Docker
 
 **Studying** IBM SkillsBuild AI Experiential Learning Lab Participant, AWS Certified Machine Learning – Specialty *(exam expected 2026)*
 
@@ -54,7 +50,7 @@ pytest (unit/integration), JUnit (Java), Git/GitLab, Linux, Docker
 - **Advanced Java (D387)** — Full-stack **Spring Boot REST** + **Angular** hotel reservation app: endpoints for availability/room lookup/reservation, **JPA/H2** persistence, DTO conversion via **ConversionService**, i18n with a multi-threaded service, Angular 14 UI under `src/main/UI`, **Dockerfile** for containerized deploy, **JUnit 5** context test. 
 - **C++ Class Roster (C867)** — OOP roster app parsing CSV into student objects; add/remove by ID; average days-in-course; email validation; filter by degree; destructor frees memory.
 
-> **Access to code:** Repos are private to honor academic policy. For read-only access, email your GitHub username and the project name.
+> **Access to code:** Repos are private to honor academic policy. For read-only access, fill out my Academic Code Access Request Form: https://swall1545.github.io/access. 
 
 ---
 ## Education & Certifications
@@ -65,7 +61,7 @@ pytest (unit/integration), JUnit (Java), Git/GitLab, Linux, Docker
 - Honors: Certificates of Excellence (Project Development; Technical Communication; Lab Science) · Sigma Alpha Pi  
 - Certs: Linux Foundation Certified · ITIL v4 Foundation  
 - Micro-credentials: Java Developer · AI Optimization Developer
-- 
+
 📫 
 ## How to reach me: Public Work & Contact
 
