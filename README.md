@@ -1,11 +1,11 @@
 # Hi, I'm Sarah Wallace 👋
-> **Code access for recruiters:** Project repositories are private to honor academic policy.  
- Request read-only access here → **https://swall1545.github.io/access** (include your GitHub username and project names).
+
+> 
 
 **BSCS Recent Graduate & CS (AI/ML) Graduate Student:** Student projects include building forecasting, interpretable ML, and routing/optimization systems in Python—plus solid software engineering in Java/C++. 
-- 📁 **Portfolio (case studies, charts, reports): https://swall1545.github.io**
-- **Academic Code Access Request Form: https://swall1545.github.io/access** 
-- 🔗 LinkedIn: https://linkedin.com/in/sarahwallaceai
+- **LinkedIn:** https://linkedin.com/in/sarahwallaceai
+- **Looking for a recruiter-friendly overview of my projects?** Visit my portfolio site: [swall1545.github.io](https://swall1545.github.io)
+- **Private code access request form for recruiters:** Request read-only access here → https://swall1545.github.io/access (include your GitHub username and project names). _Project repositories are private to honor academic policy._
 
 ---
 
@@ -62,20 +62,20 @@ Jupyter Notebooks, Matplotlib, Seaborn · stakeholder reports/readouts
 - Certs: Linux Foundation Certified · ITIL v4 Foundation  
 - Micro-credentials: Java Developer · AI Optimization Developer
 
-📫 
+Visit my portfolio site for more details: [swall1545.github.io](https://swall1545.github.io)
+
 ## How to reach me: Public Work & Contact
 
 - [GitHub Profile](https://github.com/Swall1545)  
 - [LinkedIn](https://linkedin.com/in/sarahwallaceai)
   
 ## Access to Code
-To comply with academic policy, project code is in **private GitHub repositories**.
+_To comply with academic policy, project code is in **private GitHub repositories**._
 
  **Code access:** 
 Recruiters/hiring teams can **request read-only access via form**: 
-https://swall1545.github.io/access ...
----
-...with their **GitHub username** and the **project name(s)** to receive read-only access to academic project code. 
+https://swall1545.github.io/access
+...with their **GitHub username**, **work email address**, and the **project name(s)** to receive read-only access to academic project code. 
 Please DM me on [LinkedIn](https://linkedin.com/in/sarahwallaceai) with and issues or for confirmation your request was recieved.
 
 *Thank you for visiting my profile! Feel free to reach out.*  
