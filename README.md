@@ -38,7 +38,7 @@ Jupyter Notebooks, Matplotlib, Seaborn · stakeholder reports/readouts
 
 ### AI / ML
 - **Air Quality Forecasting (D682)** — XGBoost pipeline on weather/pollution time series; **PM₂.₅ RMSE 4.73 (~3.5% better than baseline)**; SHAP surfaced **dew point/humidity** as key drivers; report + notebooks.  
-- **Alzheimer’s Prevalence (D797)** — scikit-learn Pipeline with cross-validation; **leakage audit documented** for a cluster-derived feature; SHAP interpretability; stakeholder readout.  
+- **Alzheimer’s Prevalence (D797)** — scikit-learn Pipeline with cross-validation; **leakage audit documented** for a cluster-derived feature; explored interpretability with SHAP, then pivoted to RandomForest feature_importances_ (MDI); stakeholder readout.  
 - **MLIR Operator Fusion Proposal (WGU Project Dev)** — Proposed an MLIR operator-fusion pass for edge inference; authored requirements, architecture, and implementation plan; delivered technical + business proposal; **Certificate of Excellence**.
 
 ### Software / Algorithms
